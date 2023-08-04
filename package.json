@@ -1,6 +1,7 @@
 {
   "name": "general-utilities",
-  "version": "1.0.7",
+  "email": "pranavpsinha@duck.com",
+  "version": "1.0.8",
   "description": "Supporting utility functions to help you quickly manage datetime,encryption,url,etc",
   "main": "index.js",
   "scripts": {
@@ -53,6 +54,14 @@
     "moment": "^2.29.3",
     "v8-profiler-next": "^1.9.0"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pranavpsinha/general-utilities.git"
+  },
+  "homepage": "https://github.com/pranavpsinha/general-utilities",  
   "author": "pranavpsinha",
   "license": "ISC"
 }
