@@ -1,6 +1,6 @@
 {
   "name": "general-utilities",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Supporting utility functions to help you quickly manage datetime,encryption,url,etc",
   "main": "index.js",
   "scripts": {
